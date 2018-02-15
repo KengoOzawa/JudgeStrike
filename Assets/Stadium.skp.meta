@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: 60e150aa7618a4a1680e0b73a01d857f
+timeCreated: 1518615642
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b010000
+  assetHash:
+    serializedVersion: 2
+    Hash: c420a9997a8359fccbbaf430634fd036
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 275.46808, y: 46.651447, z: 121.83276}
+      lookAt: {x: 4.5179543, y: -70.77106, z: 333.2636}
+      up: {x: -0.25489065, y: 0.94629276, z: 0.19889915}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 2014 Ford F150 Lariat Fx4 Offroad Crew Cab
+    100002: 330'#1
+    100004: 330'#2
+    100006: 371'
+    100008: 395'
+    100010: 406'
+    100012: 44
+    100014: 44 1
+    100016: //RootNode
+    100018: a1
+    100020: a1 1
+    100022: Component#1
+    100024: Component#1 1
+    100026: Component#1 2
+    100028: Component#1 3
+    100030: Component#1 4
+    100032: Component#1 5
+    100034: Component#1 6
+    100036: Component#1 7
+    100038: Component#11
+    100040: Component#11 1
+    100042: Component#11 2
+    100044: Component#11 3
+    100046: Component#11 4
+    100048: Component#11 5
+    100050: Component#12
+    100052: Component#13
+    100054: Component#14
+    100056: Component#15
+    100058: Component#2
+    100060: Component#3
+    100062: Component#5
+    100064: Component#6
+    100066: Component#8
+    100068: Component#9
+    100070: "Composant\_#1"
+    100072: "Composant\_#1 1"
+    100074: "Composant\_#1 10"
+    100076: "Composant\_#1 11"
+    100078: "Composant\_#1 12"
+    100080: "Composant\_#1 13"
+    100082: "Composant\_#1 14"
+    100084: "Composant\_#1 15"
+    100086: "Composant\_#1 16"
+    100088: "Composant\_#1 17"
+    100090: "Composant\_#1 18"
+    100092: "Composant\_#1 19"
+    100094: "Composant\_#1 2"
+    100096: "Composant\_#1 20"
+    100098: "Composant\_#1 21"
+    100100: "Composant\_#1 22"
+    100102: "Composant\_#1 23"
+    100104: "Composant\_#1 24"
+    100106: "Composant\_#1 25"
+    100108: "Composant\_#1 26"
+    100110: "Composant\_#1 27"
+    100112: "Composant\_#1 28"
+    100114: "Composant\_#1 29"
+    100116: "Composant\_#1 3"
+    100118: "Composant\_#1 30"
+    100120: "Composant\_#1 31"
+    100122: "Composant\_#1 32"
+    100124: "Composant\_#1 33"
+    100126: "Composant\_#1 34"
+    100128: "Composant\_#1 35"
+    100130: "Composant\_#1 36"
+    100132: "Composant\_#1 37"
+    100134: "Composant\_#1 38"
+    100136: "Composant\_#1 39"
+    100138: "Composant\_#1 4"
+    100140: "Composant\_#1 40"
+    100142: "Composant\_#1 41"
+    100144: "Composant\_#1 42"
+    100146: "Composant\_#1 43"
+    100148: "Composant\_#1 44"
+    100150: "Composant\_#1 45"
+    100152: "Composant\_#1 46"
+    100154: "Composant\_#1 47"
+    100156: "Composant\_#1 48"
+    100158: "Composant\_#1 49"
+    100160: "Composant\_#1 5"
+    100162: "Composant\_#1 50"
+    100164: "Composant\_#1 51"
+    100166: "Composant\_#1 52"
+    100168: "Composant\_#1 53"
+    100170: "Composant\_#1 54"
+    100172: "Composant\_#1 55"
+    100174: "Composant\_#1 6"
+    100176: "Composant\_#1 7"
+    100178: "Composant\_#1 8"
+    100180: "Composant\_#1 9"
+    100182: DrawCall10
+    100184: DrawCall11
+    100186: DrawCall12
+    100188: DrawCall14
+    100190: DrawCall17
+    100192: DrawCall18
+    100194: DrawCall19
+    100196: DrawCall20
+    100198: DrawCall25
+    100200: DrawCall27
+    100202: DrawCall28
+    100204: DrawCall44#7
+    100206: DrawCall44#7 1
+    100208: DrawCall_3
+    100210: DrawCall_4
+    100212: Florida Tatch Palm Tree
+    100214: Florida Tatch Palm Tree 1
+    100216: Florida Tatch Palm Tree 10
+    100218: Florida Tatch Palm Tree 11
+    100220: Florida Tatch Palm Tree 12
+    100222: Florida Tatch Palm Tree 13
+    100224: Florida Tatch Palm Tree 14
+    100226: Florida Tatch Palm Tree 15
+    100228: Florida Tatch Palm Tree 16
+    100230: Florida Tatch Palm Tree 17
+    100232: Florida Tatch Palm Tree 18
+    100234: Florida Tatch Palm Tree 19
+    100236: Florida Tatch Palm Tree 2
+    100238: Florida Tatch Palm Tree 20
+    100240: Florida Tatch Palm Tree 21
+    100242: Florida Tatch Palm Tree 22
+    100244: Florida Tatch Palm Tree 23
+    100246: Florida Tatch Palm Tree 24
+    100248: Florida Tatch Palm Tree 25
+    100250: Florida Tatch Palm Tree 26
+    100252: Florida Tatch Palm Tree 27
+    100254: Florida Tatch Palm Tree 3
+    100256: Florida Tatch Palm Tree 4
+    100258: Florida Tatch Palm Tree 5
+    100260: Florida Tatch Palm Tree 6
+    100262: Florida Tatch Palm Tree 7
+    100264: Florida Tatch Palm Tree 8
+    100266: Florida Tatch Palm Tree 9
+    100268: Ford F-150
+    100270: Ford F-150 1
+    100272: Group 131
+    100274: Group 137
+    100276: Group 143
+    100278: Group 149
+    100280: Group 155
+    100282: Group 161
+    100284: Group 167
+    100286: Group 17
+    100288: Group 173
+    100290: Group 179
+    100292: Group 185
+    100294: Group 191
+    100296: Group 197
+    100298: Group 203
+    100300: Group 209
+    100302: Group 215
+    100304: Group 221
+    100306: Group 227
+    100308: Group 233
+    100310: Group 239
+    100312: Group 245
+    100314: Group 251
+    100316: Group 257
+    100318: Group 263
+    100320: Group 269
+    100322: Group 275
+    100324: Group 281
+    100326: Group 287
+    100328: Group 293
+    100330: Group 63
+    100332: Group 69
+    100334: Gruppe#3
+    100336: Gruppe#3 1
+    100338: Hair Pin
+    100340: Hair Pin#1
+    100342: Hex Nut
+    100344: Hitch Pin
+    100346: JeffCowell.com
+    100348: Lock Washer
+    100350: MLB Logo
+    100352: MLB Logo 1
+    100354: MLB Logo 2
+    100356: PRO SHOP
+    100358: Sophie
+    100360: SUITE LEVEL
+    100362: Suite Level#1
+    100364: Trailer Ball
+    100366: Trailer Hitch with ball
+    400000: 2014 Ford F150 Lariat Fx4 Offroad Crew Cab
+    400002: 330'#1
+    400004: 330'#2
+    400006: 371'
+    400008: 395'
+    400010: 406'
+    400012: 44
+    400014: 44 1
+    400016: //RootNode
+    400018: a1
+    400020: a1 1
+    400022: Component#1
+    400024: Component#1 1
+    400026: Component#1 2
+    400028: Component#1 3
+    400030: Component#1 4
+    400032: Component#1 5
+    400034: Component#1 6
+    400036: Component#1 7
+    400038: Component#11
+    400040: Component#11 1
+    400042: Component#11 2
+    400044: Component#11 3
+    400046: Component#11 4
+    400048: Component#11 5
+    400050: Component#12
+    400052: Component#13
+    400054: Component#14
+    400056: Component#15
+    400058: Component#2
+    400060: Component#3
+    400062: Component#5
+    400064: Component#6
+    400066: Component#8
+    400068: Component#9
+    400070: "Composant\_#1"
+    400072: "Composant\_#1 1"
+    400074: "Composant\_#1 10"
+    400076: "Composant\_#1 11"
+    400078: "Composant\_#1 12"
+    400080: "Composant\_#1 13"
+    400082: "Composant\_#1 14"
+    400084: "Composant\_#1 15"
+    400086: "Composant\_#1 16"
+    400088: "Composant\_#1 17"
+    400090: "Composant\_#1 18"
+    400092: "Composant\_#1 19"
+    400094: "Composant\_#1 2"
+    400096: "Composant\_#1 20"
+    400098: "Composant\_#1 21"
+    400100: "Composant\_#1 22"
+    400102: "Composant\_#1 23"
+    400104: "Composant\_#1 24"
+    400106: "Composant\_#1 25"
+    400108: "Composant\_#1 26"
+    400110: "Composant\_#1 27"
+    400112: "Composant\_#1 28"
+    400114: "Composant\_#1 29"
+    400116: "Composant\_#1 3"
+    400118: "Composant\_#1 30"
+    400120: "Composant\_#1 31"
+    400122: "Composant\_#1 32"
+    400124: "Composant\_#1 33"
+    400126: "Composant\_#1 34"
+    400128: "Composant\_#1 35"
+    400130: "Composant\_#1 36"
+    400132: "Composant\_#1 37"
+    400134: "Composant\_#1 38"
+    400136: "Composant\_#1 39"
+    400138: "Composant\_#1 4"
+    400140: "Composant\_#1 40"
+    400142: "Composant\_#1 41"
+    400144: "Composant\_#1 42"
+    400146: "Composant\_#1 43"
+    400148: "Composant\_#1 44"
+    400150: "Composant\_#1 45"
+    400152: "Composant\_#1 46"
+    400154: "Composant\_#1 47"
+    400156: "Composant\_#1 48"
+    400158: "Composant\_#1 49"
+    400160: "Composant\_#1 5"
+    400162: "Composant\_#1 50"
+    400164: "Composant\_#1 51"
+    400166: "Composant\_#1 52"
+    400168: "Composant\_#1 53"
+    400170: "Composant\_#1 54"
+    400172: "Composant\_#1 55"
+    400174: "Composant\_#1 6"
+    400176: "Composant\_#1 7"
+    400178: "Composant\_#1 8"
+    400180: "Composant\_#1 9"
+    400182: DrawCall10
+    400184: DrawCall11
+    400186: DrawCall12
+    400188: DrawCall14
+    400190: DrawCall17
+    400192: DrawCall18
+    400194: DrawCall19
+    400196: DrawCall20
+    400198: DrawCall25
+    400200: DrawCall27
+    400202: DrawCall28
+    400204: DrawCall44#7
+    400206: DrawCall44#7 1
+    400208: DrawCall_3
+    400210: DrawCall_4
+    400212: Florida Tatch Palm Tree
+    400214: Florida Tatch Palm Tree 1
+    400216: Florida Tatch Palm Tree 10
+    400218: Florida Tatch Palm Tree 11
+    400220: Florida Tatch Palm Tree 12
+    400222: Florida Tatch Palm Tree 13
+    400224: Florida Tatch Palm Tree 14
+    400226: Florida Tatch Palm Tree 15
+    400228: Florida Tatch Palm Tree 16
+    400230: Florida Tatch Palm Tree 17
+    400232: Florida Tatch Palm Tree 18
+    400234: Florida Tatch Palm Tree 19
+    400236: Florida Tatch Palm Tree 2
+    400238: Florida Tatch Palm Tree 20
+    400240: Florida Tatch Palm Tree 21
+    400242: Florida Tatch Palm Tree 22
+    400244: Florida Tatch Palm Tree 23
+    400246: Florida Tatch Palm Tree 24
+    400248: Florida Tatch Palm Tree 25
+    400250: Florida Tatch Palm Tree 26
+    400252: Florida Tatch Palm Tree 27
+    400254: Florida Tatch Palm Tree 3
+    400256: Florida Tatch Palm Tree 4
+    400258: Florida Tatch Palm Tree 5
+    400260: Florida Tatch Palm Tree 6
+    400262: Florida Tatch Palm Tree 7
+    400264: Florida Tatch Palm Tree 8
+    400266: Florida Tatch Palm Tree 9
+    400268: Ford F-150
+    400270: Ford F-150 1
+    400272: Group 131
+    400274: Group 137
+    400276: Group 143
+    400278: Group 149
+    400280: Group 155
+    400282: Group 161
+    400284: Group 167
+    400286: Group 17
+    400288: Group 173
+    400290: Group 179
+    400292: Group 185
+    400294: Group 191
+    400296: Group 197
+    400298: Group 203
+    400300: Group 209
+    400302: Group 215
+    400304: Group 221
+    400306: Group 227
+    400308: Group 233
+    400310: Group 239
+    400312: Group 245
+    400314: Group 251
+    400316: Group 257
+    400318: Group 263
+    400320: Group 269
+    400322: Group 275
+    400324: Group 281
+    400326: Group 287
+    400328: Group 293
+    400330: Group 63
+    400332: Group 69
+    400334: Gruppe#3
+    400336: Gruppe#3 1
+    400338: Hair Pin
+    400340: Hair Pin#1
+    400342: Hex Nut
+    400344: Hitch Pin
+    400346: JeffCowell.com
+    400348: Lock Washer
+    400350: MLB Logo
+    400352: MLB Logo 1
+    400354: MLB Logo 2
+    400356: PRO SHOP
+    400358: Sophie
+    400360: SUITE LEVEL
+    400362: Suite Level#1
+    400364: Trailer Ball
+    400366: Trailer Hitch with ball
+    2100000: _defaultMat
+    2100002: grass
+    2100004: '[Groundcover_Sand_Smooth]'
+    2100006: '[Metal_Aluminum_Anodized]2'
+    2100008: '[Color_000]'
+    2100010: '[Color_A05]'
+    2100012: Stucco_Painted_Sand
+    2100014: seats
+    2100016: _1
+    2100018: '[Concrete_Block_8x8_Gray]'
+    2100020: '[Groundcover_Brick_Crushed]'
+    2100022: '[Translucent_Glass_Safety]'
+    2100024: '[Yellow]'
+    2100026: '[Color_002]'
+    2100028: '[Color_006]'
+    2100030: '[Color_007]'
+    2100032: '[Color_005]'
+    2100034: '[Metal_Aluminum_Anodized]1'
+    2100036: '[Carpet_Berber_Multi]1'
+    2100038: '[Translucent_Glass_Gray]'
+    2100040: '[Metal_Aluminum_Anodized]'
+    2100042: roof
+    2100044: 8
+    2100046: Material9
+    2100048: 5
+    2100050: '[Carpet_Berber_Multi]'
+    2100052: '[Color_D02]'
+    2100054: '[Fencing_Diamond_Mesh]2'
+    2100056: 3
+    2100058: 4
+    2100060: Lights
+    2100062: '[Fencing_Chain_Link]'
+    2100064: '[Cladding_Siding_White]'
+    2100066: '[Color_008]'
+    2100068: Sophie_Skin
+    2100070: Sophie_Shirt_Red
+    2100072: Sophie_Shoes2
+    2100074: Sophie_Shirt_Gray
+    2100076: Sophie_Skirt
+    2100078: Sophie_Hair
+    2100080: Sophie_Shoes
+    2100082: Sophie_Shirt_Blue
+    2100084: '[Color_000]1'
+    2100086: 7
+    2100088: '[Color_I01]'
+    2100090: '[Translucent_Glass_Gray]2'
+    2100092: '[Color_A01]'
+    2100094: '[Color_002]1'
+    2100096: '[Color_A11]'
+    2100098: '[Color_C04]'
+    2100100: '[Color_004]'
+    2100102: 10
+    2100104: '[Color_D01]'
+    2100106: '[Color_B01]'
+    2100108: '[Color_A02]'
+    2100110: '[Color_001]'
+    2100112: Material8
+    2100114: 11
+    2100116: '[Color_009]'
+    2100118: '[Metal_Rough]1'
+    2100120: '[Metal_Aluminum_Anodized]3'
+    2100122: F150-Badging1
+    2100124: pizzahut
+    2100126: scoreboard1
+    2100128: cokefence
+    2100130: chasefence
+    2100132: _18
+    2100134: _11
+    2100136: _17
+    2100138: chevyfence
+    2100140: mcafee
+    2100142: budweiser
+    2100144: Florida Thatch Palm Tree
+    2300000: 330'#1
+    2300002: 330'#2
+    2300004: 371'
+    2300006: 395'
+    2300008: 406'
+    2300010: //RootNode
+    2300012: a1
+    2300014: a1 1
+    2300016: Component#1
+    2300018: Component#1 1
+    2300020: Component#1 2
+    2300022: Component#1 3
+    2300024: Component#1 4
+    2300026: Component#1 5
+    2300028: Component#1 6
+    2300030: Component#1 7
+    2300032: Component#11
+    2300034: Component#11 1
+    2300036: Component#11 2
+    2300038: Component#11 3
+    2300040: Component#11 4
+    2300042: Component#11 5
+    2300044: Component#12
+    2300046: Component#13
+    2300048: Component#14
+    2300050: Component#15
+    2300052: Component#2
+    2300054: Component#3
+    2300056: Component#5
+    2300058: Component#6
+    2300060: Component#8
+    2300062: Component#9
+    2300064: "Composant\_#1"
+    2300066: "Composant\_#1 1"
+    2300068: "Composant\_#1 10"
+    2300070: "Composant\_#1 11"
+    2300072: "Composant\_#1 12"
+    2300074: "Composant\_#1 13"
+    2300076: "Composant\_#1 14"
+    2300078: "Composant\_#1 15"
+    2300080: "Composant\_#1 16"
+    2300082: "Composant\_#1 17"
+    2300084: "Composant\_#1 18"
+    2300086: "Composant\_#1 19"
+    2300088: "Composant\_#1 2"
+    2300090: "Composant\_#1 20"
+    2300092: "Composant\_#1 21"
+    2300094: "Composant\_#1 22"
+    2300096: "Composant\_#1 23"
+    2300098: "Composant\_#1 24"
+    2300100: "Composant\_#1 25"
+    2300102: "Composant\_#1 26"
+    2300104: "Composant\_#1 27"
+    2300106: "Composant\_#1 28"
+    2300108: "Composant\_#1 29"
+    2300110: "Composant\_#1 3"
+    2300112: "Composant\_#1 30"
+    2300114: "Composant\_#1 31"
+    2300116: "Composant\_#1 32"
+    2300118: "Composant\_#1 33"
+    2300120: "Composant\_#1 34"
+    2300122: "Composant\_#1 35"
+    2300124: "Composant\_#1 36"
+    2300126: "Composant\_#1 37"
+    2300128: "Composant\_#1 38"
+    2300130: "Composant\_#1 39"
+    2300132: "Composant\_#1 4"
+    2300134: "Composant\_#1 40"
+    2300136: "Composant\_#1 41"
+    2300138: "Composant\_#1 42"
+    2300140: "Composant\_#1 43"
+    2300142: "Composant\_#1 44"
+    2300144: "Composant\_#1 45"
+    2300146: "Composant\_#1 46"
+    2300148: "Composant\_#1 47"
+    2300150: "Composant\_#1 48"
+    2300152: "Composant\_#1 49"
+    2300154: "Composant\_#1 5"
+    2300156: "Composant\_#1 50"
+    2300158: "Composant\_#1 51"
+    2300160: "Composant\_#1 52"
+    2300162: "Composant\_#1 53"
+    2300164: "Composant\_#1 54"
+    2300166: "Composant\_#1 55"
+    2300168: "Composant\_#1 6"
+    2300170: "Composant\_#1 7"
+    2300172: "Composant\_#1 8"
+    2300174: "Composant\_#1 9"
+    2300176: DrawCall10
+    2300178: DrawCall11
+    2300180: DrawCall12
+    2300182: DrawCall14
+    2300184: DrawCall17
+    2300186: DrawCall18
+    2300188: DrawCall19
+    2300190: DrawCall20
+    2300192: DrawCall25
+    2300194: DrawCall_3
+    2300196: DrawCall_4
+    2300198: Group 17
+    2300200: Gruppe#3
+    2300202: Gruppe#3 1
+    2300204: Hair Pin
+    2300206: Hex Nut
+    2300208: Hitch Pin
+    2300210: JeffCowell.com
+    2300212: Lock Washer
+    2300214: MLB Logo
+    2300216: MLB Logo 1
+    2300218: MLB Logo 2
+    2300220: PRO SHOP
+    2300222: Sophie
+    2300224: SUITE LEVEL
+    2300226: Suite Level#1
+    2300228: Trailer Ball
+    2300230: Trailer Hitch with ball
+    3300000: 330'#1
+    3300002: 330'#2
+    3300004: 371'
+    3300006: 395'
+    3300008: 406'
+    3300010: //RootNode
+    3300012: a1
+    3300014: a1 1
+    3300016: Component#1
+    3300018: Component#1 1
+    3300020: Component#1 2
+    3300022: Component#1 3
+    3300024: Component#1 4
+    3300026: Component#1 5
+    3300028: Component#1 6
+    3300030: Component#1 7
+    3300032: Component#11
+    3300034: Component#11 1
+    3300036: Component#11 2
+    3300038: Component#11 3
+    3300040: Component#11 4
+    3300042: Component#11 5
+    3300044: Component#12
+    3300046: Component#13
+    3300048: Component#14
+    3300050: Component#15
+    3300052: Component#2
+    3300054: Component#3
+    3300056: Component#5
+    3300058: Component#6
+    3300060: Component#8
+    3300062: Component#9
+    3300064: "Composant\_#1"
+    3300066: "Composant\_#1 1"
+    3300068: "Composant\_#1 10"
+    3300070: "Composant\_#1 11"
+    3300072: "Composant\_#1 12"
+    3300074: "Composant\_#1 13"
+    3300076: "Composant\_#1 14"
+    3300078: "Composant\_#1 15"
+    3300080: "Composant\_#1 16"
+    3300082: "Composant\_#1 17"
+    3300084: "Composant\_#1 18"
+    3300086: "Composant\_#1 19"
+    3300088: "Composant\_#1 2"
+    3300090: "Composant\_#1 20"
+    3300092: "Composant\_#1 21"
+    3300094: "Composant\_#1 22"
+    3300096: "Composant\_#1 23"
+    3300098: "Composant\_#1 24"
+    3300100: "Composant\_#1 25"
+    3300102: "Composant\_#1 26"
+    3300104: "Composant\_#1 27"
+    3300106: "Composant\_#1 28"
+    3300108: "Composant\_#1 29"
+    3300110: "Composant\_#1 3"
+    3300112: "Composant\_#1 30"
+    3300114: "Composant\_#1 31"
+    3300116: "Composant\_#1 32"
+    3300118: "Composant\_#1 33"
+    3300120: "Composant\_#1 34"
+    3300122: "Composant\_#1 35"
+    3300124: "Composant\_#1 36"
+    3300126: "Composant\_#1 37"
+    3300128: "Composant\_#1 38"
+    3300130: "Composant\_#1 39"
+    3300132: "Composant\_#1 4"
+    3300134: "Composant\_#1 40"
+    3300136: "Composant\_#1 41"
+    3300138: "Composant\_#1 42"
+    3300140: "Composant\_#1 43"
+    3300142: "Composant\_#1 44"
+    3300144: "Composant\_#1 45"
+    3300146: "Composant\_#1 46"
+    3300148: "Composant\_#1 47"
+    3300150: "Composant\_#1 48"
+    3300152: "Composant\_#1 49"
+    3300154: "Composant\_#1 5"
+    3300156: "Composant\_#1 50"
+    3300158: "Composant\_#1 51"
+    3300160: "Composant\_#1 52"
+    3300162: "Composant\_#1 53"
+    3300164: "Composant\_#1 54"
+    3300166: "Composant\_#1 55"
+    3300168: "Composant\_#1 6"
+    3300170: "Composant\_#1 7"
+    3300172: "Composant\_#1 8"
+    3300174: "Composant\_#1 9"
+    3300176: DrawCall10
+    3300178: DrawCall11
+    3300180: DrawCall12
+    3300182: DrawCall14
+    3300184: DrawCall17
+    3300186: DrawCall18
+    3300188: DrawCall19
+    3300190: DrawCall20
+    3300192: DrawCall25
+    3300194: DrawCall_3
+    3300196: DrawCall_4
+    3300198: Group 17
+    3300200: Gruppe#3
+    3300202: Gruppe#3 1
+    3300204: Hair Pin
+    3300206: Hex Nut
+    3300208: Hitch Pin
+    3300210: JeffCowell.com
+    3300212: Lock Washer
+    3300214: MLB Logo
+    3300216: MLB Logo 1
+    3300218: MLB Logo 2
+    3300220: PRO SHOP
+    3300222: Sophie
+    3300224: SUITE LEVEL
+    3300226: Suite Level#1
+    3300228: Trailer Ball
+    3300230: Trailer Hitch with ball
+    4300000: Mesh A's
+    4300002: Mesh Sophie
+    4300004: Mesh 330'#1
+    4300006: Mesh 395'
+    4300008: Mesh 406'
+    4300010: Mesh 371'
+    4300012: Mesh 330'#2
+    4300014: Mesh Component#2
+    4300016: Mesh Group 17
+    4300018: Mesh DrawCall12
+    4300020: Mesh DrawCall20
+    4300022: Mesh DrawCall19
+    4300024: Mesh DrawCall_3
+    4300026: Mesh DrawCall14
+    4300028: Mesh Gruppe#3
+    4300030: Mesh DrawCall25
+    4300032: Mesh DrawCall_4
+    4300034: Mesh Trailer Hitch with ball
+    4300036: Mesh Hitch Pin
+    4300038: Mesh Hair Pin
+    4300040: Mesh Trailer Ball
+    4300042: Mesh Lock Washer
+    4300044: Mesh Hex Nut
+    4300046: Mesh JeffCowell.com
+    4300048: Mesh DrawCall11
+    4300050: Mesh DrawCall10
+    4300052: Mesh DrawCall18
+    4300054: Mesh DrawCall17
+    4300056: Mesh a1
+    4300058: Mesh Component#1
+    4300060: Mesh Component#3
+    4300062: Mesh Component#5
+    4300064: Mesh Component#6
+    4300066: Mesh SUITE LEVEL
+    4300068: Mesh Component#8
+    4300070: Mesh Component#9
+    4300072: Mesh MLB Logo
+    4300074: Mesh Suite Level#1
+    4300076: Mesh Component#11
+    4300078: Mesh Component#15
+    4300080: Mesh Component#13
+    4300082: Mesh Component#12
+    4300084: Mesh Component#14
+    4300086: Mesh PRO SHOP
+    4300088: "Mesh Composant\_#1"
+    4300090: Mesh Stadium
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
