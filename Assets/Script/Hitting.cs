@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Pitching : MonoBehaviour
+public class Hitting : MonoBehaviour
 {
 
     public GameObject BallPrefab;
@@ -13,7 +13,7 @@ public class Pitching : MonoBehaviour
     public float UpperLimits = 23.0f;
     // 投球コースのもっとも低いところ
     public float LowerLimits = 10.0f;
- 
+
     // Update is called once per frame
     void Update()
     {
@@ -33,7 +33,7 @@ public class Pitching : MonoBehaviour
             LowerLimits += 1.0f;
         }
 
-        if (Input.GetKeyDown(KeyCode.J))
+        if (Input.GetKeyDown(KeyCode.I))
         {
             // プレハブの野球ボールを複製
             GameObject Pitching = GameObject.Instantiate(BallPrefab) as GameObject;

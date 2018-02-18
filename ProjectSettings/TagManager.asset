@@ -6,6 +6,7 @@ TagManager:
   tags:
   - StrikeZone
   - BallZone
+  - Bat
   layers:
   - Default
   - TransparentFX
