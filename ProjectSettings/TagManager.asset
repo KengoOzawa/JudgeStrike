@@ -7,6 +7,12 @@ TagManager:
   - StrikeZone
   - BallZone
   - Bat
+  - RunnerPrefab
+  - NewBallPrefab
+  - HittingBallPrefab
+  - FirstRunnerPrefab
+  - SecondRunnerPrefab
+  - ThirdRunnerPrefab
   layers:
   - Default
   - TransparentFX

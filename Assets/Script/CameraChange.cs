@@ -10,6 +10,7 @@ public class CameraChange : MonoBehaviour {
     private GameObject Camera04;
     private GameObject Camera05;
     private GameObject Camera06;
+    private GameObject Camera07;
 
 	// Use this for initialization
 	void Start () {
@@ -20,13 +21,15 @@ public class CameraChange : MonoBehaviour {
         Camera04 = GameObject.Find("Camera04");
         Camera05 = GameObject.Find("Camera05");
         Camera06 = GameObject.Find("Camera06");
-
+        Camera07 = GameObject.Find("Camera07");
 
         Camera02.SetActive(false);
         Camera03.SetActive(false);
         Camera04.SetActive(false);
         Camera05.SetActive(false);
         Camera06.SetActive(false);
+        Camera07.SetActive(false);
+
 	}
 	
 	// Update is called once per frame
@@ -42,6 +45,7 @@ public class CameraChange : MonoBehaviour {
                 Camera04.SetActive(false);
                 Camera05.SetActive(false);
                 Camera06.SetActive(false);
+                Camera07.SetActive(false);
             }else if(Camera02.activeSelf){
                 Camera01.SetActive(false);
                 Camera02.SetActive(false);
@@ -49,6 +53,7 @@ public class CameraChange : MonoBehaviour {
                 Camera04.SetActive(false);
                 Camera05.SetActive(false);
                 Camera06.SetActive(false);
+                Camera07.SetActive(false);
             }else if(Camera03.activeSelf){
                 Camera01.SetActive(false);
                 Camera02.SetActive(false);
@@ -56,6 +61,7 @@ public class CameraChange : MonoBehaviour {
                 Camera04.SetActive(true);
                 Camera05.SetActive(false);
                 Camera06.SetActive(false);
+                Camera07.SetActive(false);
             }else if (Camera04.activeSelf){
                 Camera01.SetActive(false);
                 Camera02.SetActive(false);
@@ -63,6 +69,7 @@ public class CameraChange : MonoBehaviour {
                 Camera04.SetActive(false);
                 Camera05.SetActive(true);
                 Camera06.SetActive(false);
+                Camera07.SetActive(false);
             }else if (Camera05.activeSelf){
                 Camera01.SetActive(false);
                 Camera02.SetActive(false);
@@ -70,6 +77,15 @@ public class CameraChange : MonoBehaviour {
                 Camera04.SetActive(false);
                 Camera05.SetActive(false);
                 Camera06.SetActive(true);
+                Camera07.SetActive(false);
+            }else if (Camera06.activeSelf){
+                Camera01.SetActive(false);
+                Camera02.SetActive(false);
+                Camera03.SetActive(false);
+                Camera04.SetActive(false);
+                Camera05.SetActive(false);
+                Camera06.SetActive(false);
+                Camera07.SetActive(true);
             }else{
                 Camera01.SetActive(true);
                 Camera02.SetActive(false);
@@ -77,6 +93,7 @@ public class CameraChange : MonoBehaviour {
                 Camera04.SetActive(false);
                 Camera05.SetActive(false);
                 Camera06.SetActive(false);
+                Camera07.SetActive(false);
             }
         }
 		
