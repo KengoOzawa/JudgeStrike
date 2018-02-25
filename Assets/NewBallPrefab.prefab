@@ -26,6 +26,7 @@ GameObject:
   - component: {fileID: 114912458093904790}
   - component: {fileID: 96382276224393302}
   - component: {fileID: 114904662535638972}
+  - component: {fileID: 114454547489632094}
   m_Layer: 0
   m_Name: NewBallPrefab
   m_TagString: NewBallPrefab
@@ -189,6 +190,17 @@ TrailRenderer:
     generateLightingData: 0
   m_MinVertexDistance: 0.1
   m_Autodestruct: 0
+--- !u!114 &114454547489632094
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1355722165523146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cee5a304709a54ccc849f401b1f58e7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114904662535638972
 MonoBehaviour:
   m_ObjectHideFlags: 1

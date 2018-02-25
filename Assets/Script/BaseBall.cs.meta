@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8970e710246cb4a918c67b6c6054824f
+timeCreated: 1519384371
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BallPrefab: {instanceID: 0}
+  - Pitcher: {instanceID: 0}
+  - HittingBallPrefab: {instanceID: 0}
+  - HittingPivot: {instanceID: 0}
+  - FirstRunnerPrefab: {instanceID: 0}
+  - SecondRunnerPrefab: {instanceID: 0}
+  - ThirdRunnerPrefab: {instanceID: 0}
+  - FirstRunnerPivot: {instanceID: 0}
+  - SecondRunnerPivot: {instanceID: 0}
+  - ThirdRunnerPivot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
