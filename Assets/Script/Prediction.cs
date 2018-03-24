@@ -49,6 +49,7 @@ public class Prediction : MonoBehaviour
 
             //地面に落ちる位置
             // (加筆部分) 地面から0.825f地点より発射した部分を引く
+            // 原因は分からないがZ軸方向に-2.0するとちょうど良い
             var pos = new Vector3(v0.x * stopTime, gp - 0.825f, v0.z * stopTime);
             pos.x += transform.position.x;
             pos.z += transform.position.z;

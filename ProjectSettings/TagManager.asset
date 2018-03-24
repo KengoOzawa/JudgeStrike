@@ -13,6 +13,9 @@ TagManager:
   - FirstRunnerPrefab
   - SecondRunnerPrefab
   - ThirdRunnerPrefab
+  - FieldingTeamPlayer
+  - PredictionPoint
+  - BattedBallPrefab
   layers:
   - Default
   - TransparentFX

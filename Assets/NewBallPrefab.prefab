@@ -27,6 +27,7 @@ GameObject:
   - component: {fileID: 96382276224393302}
   - component: {fileID: 114904662535638972}
   - component: {fileID: 114454547489632094}
+  - component: {fileID: 114115782584687152}
   m_Layer: 0
   m_Name: NewBallPrefab
   m_TagString: NewBallPrefab
@@ -190,6 +191,18 @@ TrailRenderer:
     generateLightingData: 0
   m_MinVertexDistance: 0.1
   m_Autodestruct: 0
+--- !u!114 &114115782584687152
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1355722165523146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03eebee7869fb4ca4817939347b23bcb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ThrowedBreakingBall: 0
 --- !u!114 &114454547489632094
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -201,6 +214,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cee5a304709a54ccc849f401b1f58e7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TestBallPrefab3: {fileID: 1842128834941250, guid: 82844507706e84bccbdb9f2f5543c56a,
+    type: 2}
 --- !u!114 &114904662535638972
 MonoBehaviour:
   m_ObjectHideFlags: 1
